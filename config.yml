@@ -136,8 +136,11 @@ params:
         Title: "Hello | Hej!"
         Content: >
             - A space to develop my [**Tom Kealey**] thoughts and share a little /tɒm'fu:l(ə)ri/. I'm an inspiring and committed change artist 
-            with a talent, curiosity and passion for helping people and teams to see more clearly and do|make better.
+            with a talent, curiosity and passion for helping people and teams to see more clearly and make better.
 
+            - Work: An Agile Coach gone rogue as a Software Engineering Manager. 
+
+            - Interests: Life Hacks. Cycling. Data.
     socialIcons:
         - name: linkedin
           url:  "https://www.linkedin.com/in/tomkealey/"
