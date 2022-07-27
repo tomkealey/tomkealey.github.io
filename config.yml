@@ -1,5 +1,5 @@
 baseURL: "https://tomkealey.github.io/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: tomfoolery
+title: Tom Kealey
 paginate: 5
 theme: PaperMod
 
@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
+googleAnalytics: G-YXCSSFEE4V
 
 minify:
     disableXML: true
@@ -125,6 +125,7 @@ params:
     profileMode:
         enabled: false
         title: PaperMod
+        subtitle: "This is subtitle"
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
@@ -136,17 +137,14 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "tomfoolery"
+        Title: "Hello | Hej!"
         Content: >
-            /tɒm'fu:l(ə)ri/
-
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            - A space to develop my [**Tom Kealey**] thoughts and share a little /tɒm'fu:l(ə)ri/. I'm an inspiring and committed change artist 
+            with a talent, curiosity and passion for helping people and teams to see more clearly and do|make better.
 
     socialIcons:
+        - name: twitter
+          url:  "https://twitter.com/tomkealey"
         - name: github
           url: "https://github.com/tomkealey"
         - name: KoFi
@@ -155,7 +153,7 @@ params:
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/tomkealey/tomkealey.github.io/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
@@ -181,14 +179,14 @@ params:
     #     hiddenInList: true # hide on list pages and home
     #     hiddenInSingle: true # hide on single page
 
-    # fuseOpts:
-    #     isCaseSensitive: false
-    #     shouldSort: true
-    #     location: 0
-    #     distance: 1000
-    #     threshold: 0.4
-    #     minMatchCharLength: 0
-    #     keys: ["title", "permalink", "summary", "content"]
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
 
 markup:
     goldmark:
