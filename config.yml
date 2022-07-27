@@ -36,61 +36,61 @@ languages:
                   url: tags/
                   weight: 10
 
-    fr:
-        languageName: ":fr:"
-        languageAltTitle: French
-        weight: 2
-        title: PaperModL2
-        taxonomies:
-          category: FRcategories
-          tag: FRtags
-          series: FRseries
-        profileMode:
-            enabled: true
-            title: PaperMod
-            imageUrl: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f317.svg"
-            imageTitle: ProfileMode image
-            # imageWidth: 120
-            # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Profile Mode
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
-        menu:
-            main:
-                - name: Archive
-                  url: archives/
-                  weight: 5
-                - name: FRTags
-                  url: frtags
-                  weight: 10
-                - name: FRCategories
-                  url: frcategories
-                  weight: 10
-                - name: FRSeries
-                  url: frseries
-                  weight: 10
-                - name: NullLink
-                  url: "#"
+    # fr:
+    #     languageName: ":fr:"
+    #     languageAltTitle: French
+    #     weight: 2
+    #     title: PaperModL2
+    #     taxonomies:
+    #       category: FRcategories
+    #       tag: FRtags
+    #       series: FRseries
+    #     profileMode:
+    #         enabled: true
+    #         title: PaperMod
+    #         imageUrl: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f317.svg"
+    #         imageTitle: ProfileMode image
+    #         # imageWidth: 120
+    #         # imageHeight: 120
+    #         subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+    #         buttons:
+    #             - name: Blog
+    #               url: posts
+    #             - name: Profile Mode
+    #               url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+    #     menu:
+    #         main:
+    #             - name: Archive
+    #               url: archives/
+    #               weight: 5
+    #             - name: FRTags
+    #               url: frtags
+    #               weight: 10
+    #             - name: FRCategories
+    #               url: frcategories
+    #               weight: 10
+    #             - name: FRSeries
+    #               url: frseries
+    #               weight: 10
+    #             - name: NullLink
+    #               url: "#"
 
-    fa:
-        languagedirection: rtl
-        weight: 3
-        title: PaperMod RTL
-        homeInfoParams:
-            Title: "Hi there \U0001F44B"
-            Content: Welcome to RTL layout
-        taxonomies:
-          category: FAcategories
-          tag: FAtags
-          series: FAseries
-        menu:
-            main:
-                - name: FATags
-                  url: fatags
-                  weight: 10
+    # fa:
+    #     languagedirection: rtl
+    #     weight: 3
+    #     title: PaperMod RTL
+    #     homeInfoParams:
+    #         Title: "Hi there \U0001F44B"
+    #         Content: Welcome to RTL layout
+    #     taxonomies:
+    #       category: FAcategories
+    #       tag: FAtags
+    #       series: FAseries
+    #     menu:
+    #         main:
+    #             - name: FATags
+    #               url: fatags
+    #               weight: 10
 
 outputs:
     home:
@@ -137,14 +137,16 @@ params:
         Content: >
             - A space to develop my [**Tom Kealey**] thoughts and share a little /tɒm'fu:l(ə)ri/. I'm an inspiring and committed change artist 
             with a talent, curiosity and passion for helping people and teams to see more clearly and do|make better.
-
+            
     socialIcons:
         - name: twitter
           url:  "https://twitter.com/tomkealey"
+        - name: linkedin
+          url:  "https://www.linkedin.com/in/tomkealey/"
         - name: github
           url: "https://github.com/tomkealey"
-        - name: KoFi
-          url: "https://ko-fi.com/tomkealey"
+        # - name: KoFi
+        #   url: "https://ko-fi.com/tomkealey"
         - name: Rss
           url: "index.xml"
 
