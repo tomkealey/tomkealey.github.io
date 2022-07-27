@@ -9,7 +9,25 @@
       <link>https://tomkealey.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://tomkealey.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 14:47:17 +0200</lastBuildDate><atom:link href="https://tomkealey.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://tomkealey.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 27 Jul 2022 14:47:17 +0200</pubDate>
+      
+      <guid>https://tomkealey.github.io/posts/my-first-post/</guid>
+      <description>Consequat aliqua magna ut mollit ut nisi Lorem reprehenderit consequat ut occaecat labore eu aliqua sit elit labore. Ad culpa non deserunt magna dolore cupidatat anim do duis labore proident sint nostrud irure qui dolor veniam magna nostrud. Magna pariatur eu id laborum ea et ullamco ut aliqua. Qui ex et fugiat ipsum ea eu pariatur consectetur aliquip sit do ullamco magna ullamco velit voluptate. Ullamco commodo ullamco ut mollit labore excepteur id occaecat commodo eu.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://tomkealey.github.io/posts/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomkealey.github.io/posts/markdown/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    
     <item>
       <title>Rich Content</title>
       <link>https://tomkealey.github.io/posts/rich-content/</link>
