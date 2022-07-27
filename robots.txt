@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tomkealey.github.io/sitemap.xml
