@@ -1,6 +1,7 @@
 ---
-title: "My First Post"
-date: 2022-07-27T17:47:17+02:00
+author: "Hugo Authors"
+title: "Second Post"
+date: 2022-07-27T15:47:17+02:00
 draft: false
 ---
 
