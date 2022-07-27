@@ -26,10 +26,10 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Get Theme
-        run: git submodule update --init --recursive
+        run: git submodules update --init --recursive
 
       - name: Update theme to Latest commit
-        run: git submodule update --remote --merge
+        run: git submodules update --remote --merge
 
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
