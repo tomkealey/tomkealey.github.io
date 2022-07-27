@@ -106,7 +106,7 @@ params:
 
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true
@@ -139,10 +139,10 @@ params:
             with a talent, curiosity and passion for helping people and teams to see more clearly and do|make better.
 
     socialIcons:
-        - name: twitter
-          url:  "https://twitter.com/tomkealey"
         - name: linkedin
           url:  "https://www.linkedin.com/in/tomkealey/"
+        - name: twitter
+          url:  "https://twitter.com/tomkealey"
         - name: github
           url: "https://github.com/tomkealey"
         # - name: KoFi
