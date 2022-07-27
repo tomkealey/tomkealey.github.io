@@ -1,6 +1,6 @@
 baseURL: "https://tomkealey.github.io/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: Tom Kealey
-paginate: 5
+title: "@tomkealey"
+paginate: 3
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -137,7 +137,7 @@ params:
         Content: >
             - A space to develop my [**Tom Kealey**] thoughts and share a little /tɒm'fu:l(ə)ri/. I'm an inspiring and committed change artist 
             with a talent, curiosity and passion for helping people and teams to see more clearly and do|make better.
-            
+
     socialIcons:
         - name: twitter
           url:  "https://twitter.com/tomkealey"
