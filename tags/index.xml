@@ -64,23 +64,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>text</title>
-      <link>https://tomkealey.github.io/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tomkealey.github.io/tags/text/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://tomkealey.github.io/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tomkealey.github.io/tags/emoji/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
