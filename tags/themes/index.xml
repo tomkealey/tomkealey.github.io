@@ -16,7 +16,16 @@
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tomkealey.github.io/posts/markdown/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <description>Sample article showcasing basic Markdown syntax.</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://tomkealey.github.io/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomkealey.github.io/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
     </item>
     
   </channel>
