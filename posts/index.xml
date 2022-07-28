@@ -9,17 +9,7 @@
       <link>https://tomkealey.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Jul 2022 15:47:17 +0200</lastBuildDate><atom:link href="https://tomkealey.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Second Post</title>
-      <link>https://tomkealey.github.io/posts/second-post/</link>
-      <pubDate>Wed, 27 Jul 2022 15:47:17 +0200</pubDate>
-      
-      <guid>https://tomkealey.github.io/posts/second-post/</guid>
-      <description>Proident cupidatat sint dolor Lorem est irure sunt et. Enim amet minim cillum ullamco aliquip pariatur. Qui anim qui irure nisi esse tempor veniam. Qui et id aliquip nisi excepteur reprehenderit veniam nisi. Lorem quis pariatur nostrud eiusmod exercitation ad proident Lorem fugiat.
-Nulla sit id non aliquip est. Sint id incididunt pariatur irure qui pariatur adipisicing dolore non. Consectetur duis labore et velit. Voluptate consectetur reprehenderit duis proident eiusmod dolor dolore consectetur est.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 27 Jul 2022 14:47:17 +0200</lastBuildDate><atom:link href="https://tomkealey.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://tomkealey.github.io/posts/my-first-post/</link>
