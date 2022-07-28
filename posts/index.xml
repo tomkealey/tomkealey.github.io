@@ -37,14 +37,5 @@
       <description>A brief description of Hugo Shortcodes</description>
     </item>
     
-    <item>
-      <title>Emoji Support</title>
-      <link>https://tomkealey.github.io/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tomkealey.github.io/posts/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
-    </item>
-    
   </channel>
 </rss>
