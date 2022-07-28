@@ -150,6 +150,8 @@ params:
           url: "https://github.com/tomkealey"
         # - name: KoFi
         #   url: "https://ko-fi.com/tomkealey"
+        - name: pinterest
+          url:  "https://www.pinterest.se/tomkealey/"
         - name: Rss
           url: "index.xml"
 
