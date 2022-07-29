@@ -135,13 +135,15 @@ params:
     homeInfoParams:
         Title: "Hello | Hej!"
         Content: >
-            - A space to develop my [**Tom Kealey**] thoughts and share a little /tɒm'fu:l(ə)ri/. 
-            I've a curiosity and passion for unlocking potential in people (mine too) and teams 
-            by helping to see more clearly and daring to learn by doing. Make better.
+            - **Purpose:** A space to channel my curiousity, develop my thoughts and 
+            share a little /tɒm'fu:l(ə)ri/.
 
-            - Work: An Agile Coach gone rogue as a Software Engineering Manager.
+            - **Mission:** To inspire people to see | think | do more clearly so that they 
+            may make life better.
             
-            - Interests: Life Hacks. Street Art. Cycling. Data.
+            - **Work:** Developer turned Agile Coach, now gone rogue as a Software Engineering Manager.
+            
+            - **Interests:** Life Hacks | Graphic Design | Architecture | Street Art | Cycling | Data
 
     socialIcons:
         - name: linkedin
