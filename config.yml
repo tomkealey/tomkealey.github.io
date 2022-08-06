@@ -135,15 +135,12 @@ params:
     homeInfoParams:
         Title: "Hello | Hej!"
         Content: >
-            - **Purpose:** A space to channel my curiousity, develop my thoughts and 
-            share a little /tɒm'fu:l(ə)ri/.
+            - **Purpose:** Space to channel my curiousity, develop my thinking and share a little /tɒm'fu:l(ə)ri/.
+            
+            - **Bio:** Agile Coach gone rogue as a Software Engineering Manager. Passion for product (what?), process (how?) and 
+            team (who?) development.
 
-            - **Mission:** To inspire people to see | think | do more clearly so that they 
-            may make life better.
-            
-            - **Work:** Developer turned Agile Coach, now gone rogue as a Software Engineering Manager.
-            
-            - **Interests:** Life Hacks | Graphic Design | Architecture | Street Art | Cycling | Data
+            - **Interests:** Life Hacks | Graphic Design | Architecture | Street Art | Photography | Cycling | Data
 
     socialIcons:
         - name: linkedin
