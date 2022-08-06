@@ -135,14 +135,11 @@ params:
     homeInfoParams:
         Title: "Hello | Hej!"
         Content: >
-            - Weclome 👋.. This is a space to channel my curiousity, develop my thinking and share a little /tɒm'fu:l(ə)ri/.
+            - **Purpose:** A space to channel my curiousity, develop my thinking and share a little /tɒm'fu:l(ə)ri/.
+            
+            - **Bio:** Agile Coach with a passion for development gone rogue as a Software Engineering Manager. 
 
-            - 
-
-            - **Bio:** An Agile Coach gone rogue as a Software Engineering Manager. Passion for product development, 
-            process simplicity and team growth.
-
-            - **Interests:** Life Hacks | Design | Architecture | Street Art | Photography | Cycling | Data
+            - **Interests:** Life Hacks | Design | Street Art | Photography | Cycling | Data
 
     socialIcons:
         - name: linkedin
