@@ -3,8 +3,9 @@ title: "Experience" # in any language you want
 layout: "experience" # is necessary
 url: "/experience"
 summary: "experience"
-ShowToc: false
+ShowBreadCrumbs: false
 hidemeta: true
+ShowToc: false
 ---
 
 ### TL;DR
