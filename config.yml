@@ -26,9 +26,12 @@ languages:
           series: series
         menu:
             main:
+                - name: Experience
+                  url: experience
+                  weight: 5
                 - name: Archive
                   url: archives
-                  weight: 5
+                  weight: 10
                 - name: Search
                   url: search/
                   weight: 10
