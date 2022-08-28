@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://tomkealey.github.io/posts/hello-world/</guid>
-      <description>I&amp;rsquo;ve been a Squarespace subscriber for many years but never truly made much of my investment. I was keen for a low-cost alternative for a blog and stumbled upon a post that made reference to Static Site Generators 1 and Hugo 2 3 - a fast and modern static site generator written in Go, designed to make website creation fun again.
+      <description>I&amp;rsquo;ve been a Squarespace subscriber for many years but never truly made much of my investment. I was keen for a low-cost alternative for a blog and stumbled upon a post that made reference to Static Site Generators 1 and Hugo 2 3- a fast and modern static site generator written in Go, designed to make website creation fun again.
 Writing posts in Markdown and pushing them to Github to build and deploy appealed to my inner developer.</description>
     </item>
     
