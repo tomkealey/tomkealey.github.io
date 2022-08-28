@@ -3,16 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tomkealey.github.io/</loc>
-    <lastmod>2022-07-27T14:47:17+02:00</lastmod>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomkealey.github.io/categories/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomkealey.github.io/tags/facilitate/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomkealey.github.io/categories/facilitate/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomkealey.github.io/posts/gorilla-retro/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomkealey.github.io/series/meeting-better/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomkealey.github.io/posts/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomkealey.github.io/tags/retro/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomkealey.github.io/categories/retro/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomkealey.github.io/series/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomkealey.github.io/tags/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomkealey.github.io/posts/my-first-post/</loc>
     <lastmod>2022-07-27T14:47:17+02:00</lastmod>
-  </url><url>
-    <loc>https://tomkealey.github.io/posts/</loc>
-    <lastmod>2022-07-27T14:47:17+02:00</lastmod>
-  </url><url>
-    <loc>https://tomkealey.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomkealey.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -20,13 +44,7 @@
     <loc>https://tomkealey.github.io/posts/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomkealey.github.io/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tomkealey.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomkealey.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomkealey.github.io/tags/themes/</loc>
