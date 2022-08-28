@@ -4,8 +4,8 @@ title: "Gorilla Retro"
 date: "2022-08-28"
 draft: false
 description: ""
-tags: ["facilitate", "retro"]
-categories: ["facilitate", "retro"]
+tags: ["retro", "play"]
+categories: ["retro", "play"]
 series: ["Meeting Better"]
 ShowToc: false
 TocOpen: false
