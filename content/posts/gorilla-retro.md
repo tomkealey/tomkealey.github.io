@@ -14,7 +14,6 @@ cover:
   alt: ""
   caption: "<text>"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
-
 ---
 
 Some iterations have natural drama, surprises or tension to mine, while others are dull by comparison. Even the most dedicated and high-performing teams can struggle to rise to the occasion on their 89th retro together. Managers are not immune.
