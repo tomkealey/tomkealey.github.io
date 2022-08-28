@@ -9,9 +9,13 @@ categories: ["facilitate", "retro"]
 series: ["Meeting Better"]
 ShowToc: false
 TocOpen: false
----
+cover:
+  image: "./assets/images/gorillas.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false # To use relative path for cover image, used in hugo Page-bundles
 
-![Gorillas](../../assets/images/gorillas.jpg)
+---
 
 Some iterations have natural drama, surprises or tension to mine, while others are dull by comparison. Even the most dedicated and high-performing teams can struggle to rise to the occasion on their 89th retro together. Managers are not immune.
 
@@ -22,8 +26,6 @@ We have experimented with frameworks yet found **themes** to be a favoured catal
 **Provide a spark.** Instead, we placed ourselves at the hands of a online random word generator, trusting in our own creativity to honour the retro. Each member generated a word, shared it with the team and voted on their favourite.
 
 **Take an action.** With our chosen theme in mind and all that one might associate with it, we looked at what we could continue, stop and start, before agreeing on an improvement to our current ways of working.
-
-How do you do yours?
 
 ---
 
