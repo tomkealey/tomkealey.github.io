@@ -3,7 +3,7 @@ author: "Tom Kealey"
 title: "Gorilla Retro"
 date: "2022-08-28"
 draft: false
-description: "Add a little creative spice with themes."
+description: ""
 tags: ["facilitate", "retro"]
 categories: ["facilitate", "retro"]
 series: ["Meeting Better"]
@@ -11,7 +11,7 @@ ShowToc: false
 TocOpen: false
 cover:
   image: "./assets/images/gorillas.jpg"
-  alt: "<alt text>"
+  alt: "Gorillas"
   caption: "<text>"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 
