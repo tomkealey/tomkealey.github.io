@@ -16,15 +16,10 @@ cover:
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 
 ---
-I've been a Squarespace subscriber for many years but never truly made much of my investment. I was keen for a low-cost alternative for a blog and stumbled upon a post that made reference to Static Site Generators [^1] and Hugo [^2] [^3]. 
 
-[^1]: An Introduction to Static Site Generators - https://davidwalsh.name/introduction-static-site-generators
-[^2]: What is Hugo - https://gohugo.io/about/what-is-hugo/
-[^3]: The Benefits of Static Site Generators - https://gohugo.io/about/benefits/
+In search of a platform for this blog, I stumbled upon [Hugo](https://gohugo.io/about/what-is-hugo/) and go cosy with [Static Site Generators](https://gohugo.io/about/benefits/). Hugo proomised a fast and modern static site generator written in Go, designed to make website creation fun again. The inner geek in me was excited by what i'd read and the secret nerdy joy of writing posts in [Markdown](https://www.markdownguide.org/) and pushing them to [Github Pages](https://pages.github.com/) to build and deploy.
 
-Writing posts in Markdown and pushing them to Github to build and deploy appealed to my inner developer. Hugo proomised a fast and modern static site generator written in Go, designed to make website creation fun again. The geek in me was sold. 
-
-I opted for a minimalist theme [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/) and set to work.
+I opted for a minimalist Hugo theme called [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/) and set to work on breathing life into my new pet project.
 
 ### Basic Steps
 
