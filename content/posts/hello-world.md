@@ -17,7 +17,7 @@ cover:
 
 ---
 
-In search of a platform for this blog, I stumbled upon [Hugo](https://gohugo.io/about/what-is-hugo/) and go cosy with [Static Site Generators](https://gohugo.io/about/benefits/). Hugo proomised a fast and modern static site generator written in Go, designed to make website creation fun again. The inner geek in me was excited by what i'd read and the secret nerdy joy of writing posts in [Markdown](https://www.markdownguide.org/) and pushing them to [Github Pages](https://pages.github.com/) to build and deploy.
+In search of a platform for this blog, I stumbled upon [Hugo](https://gohugo.io/about/what-is-hugo/) and got cosy with [Static Site Generators](https://gohugo.io/about/benefits/). Hugo proomised a fast and modern static site generator written in Go, designed to make website creation fun again. The inner geek in me was excited by that and the secret nerdy joy of writing posts in [Markdown](https://www.markdownguide.org/) and pushing them to [Github Pages](https://pages.github.com/) to build and deploy appealed to me.
 
 I opted for a minimalist Hugo theme called [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/) and set to work on breathing life into my new pet project.
 
