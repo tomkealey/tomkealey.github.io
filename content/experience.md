@@ -17,7 +17,7 @@ Senior Engineering Manager with 20+ years experience in software engineering and
 
 - Transformed an underrated front-end team to a high-performing full stack team, uniquely positioned to deliver end-to-end SaaS solutions. The team has grown in autonomy, increased their domain and multiplied their value to the business.
 - Inspired countless managers and their teams to greater performance and potential, through mentoring and coaching. The groups could see their challenge(s) more clearly, spot new opportunities and take responsibility for making better.
-- Introduced a modern approach to product development, with data integration and data analytics. The organisation could make informed decision and take actions using insights generated from investment, usage and engineering data.
+- Introduced a modern approach to product development, with increased transparency and data analytics. The team make informed decision and take actions using insights generated from product usage and engineering data. And they look to inspire others by documenting their evolving ways of working in a public handbook. 
 
 ### Career History
 
@@ -25,8 +25,8 @@ Senior Engineering Manager with 20+ years experience in software engineering and
 Senior Engineering Manager responsible for the growth and development of a cloud native engineering team. Responsible for delivering high quality backend micro-services (`Go`, `Mongo db`) and micro-frontend components (`React`, `JS`) with a focus on tenant management and administration. We are developing Qlik's Active Intelligence Platform -- a multi-tenant SaaS solution supporting thousands of signups per month.
 
 - Transformed an underrated front-end team to a high-performing full stack team, uniquely positioned to deliver end-to-end SaaS solutions. The team has grown in autonomy, increased their domain and multiplied their value to the business.
-- ...
-- ...
+- Improved self-drive and engagement in the team, through one-to-ones and a shared vision for purpose, mastery and autonomy. The team has grown in confidence and influence, now going beyond their own domain to drive and/or collaborate on work that matters most for the business.
+- Introduced a modern approach to product development, with increased transparency and data analytics. The team make informed decision and take actions using insights generated from product usage and engineering data. And they look to inspire others by documenting their evolving ways of working in a public handbook. 
 
 #### Lead Agile Coach, Qlik 2015-2018
 
