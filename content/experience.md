@@ -11,7 +11,7 @@ ShowToc: false
 <p style="text-align: center;">Strategic | Futuristic | Relator | Multiplier | Learner</p>
 
 ### TL;DR
-An Engineering Manager with 20+ years experience in software engineering and digital transformation with SaaS. Inspired by the future and what could be. Love sorting through the clutter and finding the best route. Find deep satisfaction in working hard together to achieve goals that matter. Seeks to transform something strong into something superb. Addicted to learning and continuous improvement.
+Senior Engineering Manager with 20+ years experience in software engineering and digital transformation with SaaS. Inspired by the future and what could be. Love sorting through the clutter and finding the best route. Find deep satisfaction in working hard together to achieve goals that matter. Seeks to transform something strong into something superb. Addicted to learning and continuous improvement.
 
 ### Recent Highlights
 
