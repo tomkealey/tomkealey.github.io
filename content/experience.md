@@ -15,15 +15,56 @@ Senior Engineering Manager with 20+ years experience in software engineering and
 
 ### Recent Highlights
 
-- Transforming an underrated front-end team to a high-performing full stack team, uniquely positioned to deliver end-to-end SaaS solutions. The team grew in autonomy, increased their domain and multiplied their value to the business.
-- Inspiring countless managers and their teams to greater performance and potential, through mentoring and coaching. The groups could see their challenge(s) more clearly, spot new opportunities and take responsibility for making better.
-- Leading a modern approach to product development, with data integration and data analytics. The organisation could make informed decision and take actions using insights generated from investment, usage and engineering data.
+- Transformed an underrated front-end team to a high-performing full stack team, uniquely positioned to deliver end-to-end SaaS solutions. The team has grown in autonomy, increased their domain and multiplied their value to the business.
+- Inspired countless managers and their teams to greater performance and potential, through mentoring and coaching. The groups could see their challenge(s) more clearly, spot new opportunities and take responsibility for making better.
+- Introduced a modern approach to product development, with data integration and data analytics. The organisation could make informed decision and take actions using insights generated from investment, usage and engineering data.
 
-### Career Overview
-- 2018-2023 Senior Engineering Manager at Qlik 
-- 2015-2018 Lead Agile Coach at Qlik 
-- 2012-2015 Freelance Consultant at Zerodegrees 
-- 2006-2012 Senior Consultant at Softhouse 
-- 2003-2006 Consultant at Logica SE 
-- 2000-2003 Developer at Logica UK
+### Career History
 
+#### Senior Engineering Manager, Qlik 2018-2023
+Senior Engineering Manager responsible for the growth and development of a cloud native engineering team. Responsible for delivering high quality backend micro-services (`Go`, `Mongo db`) and micro-frontend components (`React`, `JS`) with a focus on tenant management and administration. We are developing Qlik's Active Intelligence Platform -- a multi-tenant SaaS solution supporting thousands of signups per month.
+
+- Transformed an underrated front-end team to a high-performing full stack team, uniquely positioned to deliver end-to-end SaaS solutions. The team has grown in autonomy, increased their domain and multiplied their value to the business.
+- ...
+- ...
+
+#### Lead Agile Coach, Qlik 2015-2018
+
+Lead Agile Coach responsible for the 
+
+- Inspired countless managers and their teams to greater performance and potential, through mentoring and coaching. The groups could see their challenge(s) more clearly, spot new opportunities and take responsibility for making better.
+- ...
+
+#### Freelance Consultant, Zerodegrees 2012-2015
+
+Freelance Consultant responsible for the
+
+- ...
+
+
+#### Career Note
+
+Additional tenure as Senior Consultant at Softhouse (2006-2012), Consultant at Logica SE (2003-2006) and Developer at Logica UK (2000-2003)
+
+### Education
+
+- MEng Electrical and Electronic Engineering, Heriot-Watt University, Edinburgh
+- BTec National Diploma Mechanical and Electrical Engineering, Technical College, Coleraine
+
+### Speaker
+
+- Sustainable Change, XP Malmö 2012
+- Visual Thinking, Softhouse Lund 2012
+- Making Change Stick, Agile Stockholm 2012
+- Solving Problems and Selling Ideas with Pictures, Lean Tribe Malmö 2011 
+- Crafting Successful Agile Transitions, Softhouse Lund 2010
+
+### Certificates
+
+- Progress Organisation Structures, Corporate Rebels 2022
+- Art of Facilitating Learning, Kaos Pilot 2018
+- Creative Leadership, Kaos Pilot 2016
+- Self/Life Coach, WeCreate 2012
+- Innovation Games and Gamestorming Facilitator, L Hohmann 2011
+- Problem Solving Leadership, G. Weinberg 2009
+- Scrum Master, Practitioner and Product Owner, Scrum Alliance 2006
