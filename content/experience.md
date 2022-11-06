@@ -17,7 +17,7 @@ Senior Engineering Manager with 20+ years experience in software engineering and
 
 - Transformed an underrated front-end team to a high-performing full stack team, uniquely positioned to deliver end-to-end SaaS solutions. The team has grown in autonomy, increased their domain and multiplied their value to the business.
 - Inspired countless managers and their teams to greater performance and potential, through mentoring and coaching. The groups could see their challenge(s) more clearly, spot new opportunities and take responsibility for making better.
-- Introduced a modern approach to product development, with increased transparency and data analytics. The team make informed decision and take actions using insights generated from product usage and engineering data. And they look to inspire others by documenting their evolving ways of working in a public handbook. 
+- Ran a profitable freelance consultancy business, gaining valuable insights in marketing, sales and finances. Experienced the joy of working with purpose and meaning, while discovering my core values and better understanding *what i stand for*. 
 
 ### Career History
 
@@ -39,7 +39,7 @@ Lead Agile Coach responsible for guiding and accelerating the agile transformati
 
 Freelance Consultant responsible for running my own business. Hired by Sony Mobile, Orange Telecom and Qlik, my mission was to help engineering teams see more clearly and to do a little smarter, using agile and visual thinking.
 
-- Gained insights into marketing, sales and finances, through running a highly profitable freelance consultancy business. Experienced the joy of working with purpose and meaning, while discovering my core values and better understanding *what i stand for*. 
+- Ran a profitable freelance consultancy business, gaining valuable insights in marketing, sales and finances. Experienced the joy of working with purpose and meaning, while discovering my core values and better understanding *what i stand for*. 
 
 #### Career Note
 
