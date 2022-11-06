@@ -30,7 +30,7 @@ Senior Engineering Manager responsible for the growth and development of a cloud
 
 #### Lead Agile Coach, Qlik 2015-2018
 
-Lead Agile Coach responsible for guiding and accelerating the agile transformation of engineering teams at Qlik, with a primary focus on Lund and Ottawa. Invited by managers and teams. Each team unique. Respected for unlocking potential in individuals and teams by including them in their transformation, feeding their curiosity and supporting their initiative.
+Lead Agile Coach responsible for guiding and accelerating the agile transformation of engineering teams at Qlik. Invited by managers and teams. Each team unique. Respected for unlocking potential in individuals and teams by including them in their transformation, feeding their curiosity and supporting their initiative.
 
 - Inspired countless managers and their teams to greater performance and potential, through mentoring and coaching. The groups could see their challenge(s) more clearly, spot new opportunities and take responsibility for making better.
 - Co-created many _safe to try_ experiments tailored for the team by the team, using liberating structures and creative workshops. The teams evolved their agile ways of working and discovered ways to deliver value with more ease, more productivity and more satisfaction.
