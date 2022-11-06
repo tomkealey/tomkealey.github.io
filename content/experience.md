@@ -37,14 +37,13 @@ Lead Agile Coach responsible for guiding and accelerating the agile transformati
 
 #### Freelance Consultant, Zerodegrees 2012-2015
 
-Freelance Consultant responsible for the
+Freelance Consultant responsible for running my own business. Hired by Sony Mobile, Orange Telecom and Qlik, my mission was to help engineering teams see more clearly and to do a little smarter, using agile and visual thinking.
 
-- ...
-
+- Gained insights into marketing, sales and finances, through running a highly profitable freelance consultancy business. Experienced the joy of working with purpose and meaning, while discovering my core values and better understanding *what i stand for*. 
 
 #### Career Note
 
-Additional tenure as Senior Consultant at Softhouse (2006-2012), Consultant at Logica SE (2003-2006) and Developer at Logica UK (2000-2003)
+Additional tenure as Senior Consultant at Softhouse (2006-2012), Consultant at Logica SE (2003-2006) and Developer at Logica UK (2000-2003). *Information available on request.*
 
 ### Education
 
