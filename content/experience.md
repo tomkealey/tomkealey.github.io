@@ -26,7 +26,7 @@ Senior Engineering Manager responsible for the growth and development of a cloud
 
 - Transformed an underrated front-end team to a high-performing full stack team, uniquely positioned to deliver end-to-end SaaS solutions. The team has grown in autonomy, increased their domain and multiplied their value to the business.
 - Improved self-drive and engagement in the team, through one-to-ones and a shared vision for purpose, mastery and autonomy. The team has grown in confidence and influence, now going beyond their own domain to drive and/or collaborate on work that matters most for the business.
-- Introduced a modern approach to product development, with increased transparency and data analytics. The team make informed decision and take actions using insights generated from product usage and engineering data. And they look to inspire others by documenting their evolving ways of working in a Team Handbook on GitHub. 
+- Introduced a modern approach to product development, with data analytics and increased transparency. The team make informed decision and take actions using insights generated from product usage and engineering data. And they look to inspire others by documenting their evolving ways of working in a Team Handbook on GitHub. 
 
 #### Lead Agile Coach, Qlik 2015-2018
 
