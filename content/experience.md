@@ -21,7 +21,7 @@ Senior Engineering Manager with 20+ years experience in software engineering and
 
 ### Career History
 
-#### Senior Engineering Manager, Qlik 2018-202x
+#### Senior Engineering Manager, Qlik 2018-2023
 Senior Engineering Manager responsible for the growth and development of a cloud native engineering team. Responsible for delivering high quality backend micro-services (`Go`, `Mongo db`) and micro-frontend components (`React`, `JS`) with a focus on tenant management and administration. We are developing Qlik's Active Intelligence Platform -- a multi-tenant SaaS solution supporting thousands of signups per month.
 
 - Transformed an underrated front-end team to a high-performing full stack team, uniquely positioned to deliver end-to-end SaaS solutions. The team has grown in autonomy, increased their domain and multiplied their value to the business.
