@@ -153,6 +153,8 @@ params:
       url: "https://twitter.com/tomkealey"
     - name: github
       url: "https://github.com/tomkealey"
+    - name: gitlab
+      url: "https://gitlab.com/tomkealey"
     # - name: KoFi
     #   url: "https://ko-fi.com/tomkealey"
     - name: pinterest
