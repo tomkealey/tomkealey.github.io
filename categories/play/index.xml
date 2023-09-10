@@ -5,10 +5,12 @@
     <link>https://tomkealey.github.io/categories/play/</link>
     <description>Recent content in play on @tomkealey</description>
     <image>
+      <title>@tomkealey</title>
       <url>https://tomkealey.github.io/papermod-cover.png</url>
       <link>https://tomkealey.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tomkealey.github.io/categories/play/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
