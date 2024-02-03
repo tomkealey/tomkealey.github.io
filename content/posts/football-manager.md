@@ -72,7 +72,6 @@ Here are areas I choose to reflect on:
 - Reflect on instances where you foster the club's values by your actions.
 
 ## Personal Development
----
 
 ### Continuous Learning
 - Reflect on your commitment to staying updated on football strategies, tactics, and management trends.
