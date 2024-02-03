@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on @tomkealey</title>
-    <link>https://tomkealey.github.io/posts/</link>
-    <description>Recent content in Posts on @tomkealey</description>
+    <title>management on @tomkealey</title>
+    <link>https://tomkealey.github.io/tags/management/</link>
+    <description>Recent content in management on @tomkealey</description>
     <image>
       <title>@tomkealey</title>
       <url>https://tomkealey.github.io/papermod-cover.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tomkealey.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomkealey.github.io/tags/management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Football Manager</title>
       <link>https://tomkealey.github.io/posts/football-manager/</link>
@@ -21,13 +21,6 @@
       <description>Taking inspiration from Football Management to guide reflection on my own performance, potential, impact and development as an Engineering Manager.
 Escape industry bias and questioning things anew. Both challenging environments with high expectations. Success relies on developing high performing teams. Here are areas I choose to reflect on:
 Current Performance Team Performance Assess the overall performance of your team in recent matches. Reflect on key victories, draws, and losses, and identify patterns or trends.</description>
-    </item>
-    <item>
-      <title>Hello Hugo</title>
-      <link>https://tomkealey.github.io/posts/hello-hugo/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://tomkealey.github.io/posts/hello-hugo/</guid>
-      <description>In search of a platform for this blog, I stumbled upon Hugo and got cosy with Static Site Generators. Hugo promised a fast and modern static site generator written in Go, designed to make website creation fun again. The inner geek in me was excited by that and the secret nerdy joy of writing posts in Markdown and pushing them to Github Pages to build and deploy appealed to me.</description>
     </item>
   </channel>
 </rss>
