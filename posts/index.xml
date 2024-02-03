@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tomkealey.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Football Manager</title>
+      <link>https://tomkealey.github.io/posts/football-manager/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomkealey.github.io/posts/football-manager/</guid>
+      <description>Taking inspiration from Football Management to guide reflection on my own performance, potential, impact and development as an Engineering Manager.
+Escape industry bias and questioning things anew. Both challenging environments with high expectations. Success relies on developing high performing teams. Here are areas I choose to reflect on:
+Current Performance Team Performance Assess the overall performance of your team in recent matches. Reflect on key victories, draws, and losses, and identify patterns or trends.</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>https://tomkealey.github.io/posts/hello-world/</link>
