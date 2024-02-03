@@ -26,7 +26,6 @@ Taking inspiration from Football Management to guide reflection on my own perfor
 Here are areas I choose to reflect on:
 
 ## Current Performance
----
 
 ### Team Performance
 - Assess the overall performance of your team in recent matches.
@@ -45,7 +44,6 @@ Here are areas I choose to reflect on:
 - Consider how well you motivate and inspire the team through communication.
 
 ## Future Potential
----
 
 ### Adaptability
 - Assess your ability to adapt tactics and strategies based on the team's strengths and weaknesses.
@@ -64,7 +62,6 @@ Here are areas I choose to reflect on:
 - Evaluate how well you manage conflicts within the team.
 
 ## Overall Impact
----
 
 ### Club Success and Long-Term Goals
 - Assess your overall impact on the club's success and achievement of long-term goals.
