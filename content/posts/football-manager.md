@@ -20,7 +20,6 @@ cover:
 ![Football Manager](image.jpg)
 
 Taking inspiration from Football Management to guide reflections on my performance, potential, impact and development as an Engineering Manager.
-These are challenging environments with high expectations. Success relies on unlocking individual potential and developing high performing teams.
 
 Areas to reflect on:
 
