@@ -9,7 +9,6 @@ categories: ["site", "play"]
 series: [""]
 ShowToc: true
 TocOpen: false
-ShowPostNavLinks: false
 cover:
   image: ""
   alt: ""
