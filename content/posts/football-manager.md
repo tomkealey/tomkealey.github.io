@@ -4,11 +4,12 @@ title: "Football Manager"
 date: "2024-02-01"
 draft: false
 description: ""
-tags: ["manager"]
+tags: ["manager", "management"]
 categories: ["management"]
 series: [""]
 ShowToc: true
 TocOpen: false
+ShowPostNavLinks: false
 cover:
   image: ""
   alt: ""
@@ -16,6 +17,8 @@ cover:
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 
 ---
+
+![Football Manager](image.jpg)
 
 Taking inspiration from Football Management to guide reflection on my own performance, potential, impact and development as an Engineering Manager.
 
