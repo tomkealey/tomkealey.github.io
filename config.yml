@@ -147,8 +147,8 @@ params:
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/tomkealey/"
-    - name: mastodon
-      url: "https://mastodon.social/@tomkealey"
+    #- name: mastodon
+    #  url: "https://mastodon.social/@tomkealey"
     - name: twitter
       url: "https://twitter.com/tomkealey"
     - name: github
