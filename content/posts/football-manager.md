@@ -9,7 +9,6 @@ categories: ["management"]
 series: [""]
 ShowToc: true
 TocOpen: false
-ShowPostNavLinks: true
 cover:
   image: ""
   alt: ""
