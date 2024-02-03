@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>manager on @tomkealey</title>
     <link>https://tomkealey.github.io/tags/manager/</link>
@@ -19,7 +19,8 @@
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://tomkealey.github.io/posts/football-manager/</guid>
       <description>Taking inspiration from Football Management to guide reflections on my performance, potential, impact and development as an Engineering Manager.
-Current Performance Team Performance Assess the overall performance of your team in recent matches. Reflect on key victories, draws, and losses, and identify patterns or trends. Player Development Evaluate the individual development and performance of key players. Consider how you&amp;rsquo;ve supported players in improving their skills and contributions. Tactics and Strategy Reflect on the effectiveness of your tactical decisions during matches.</description>
+Focus Areas:
+1. Current Performance 2. Future Potential 3. Overall Impact 4. Personal Development Current Performance Team Performance Assess the overall performance of your team in recent matches. Reflect on key victories, draws, and losses, and identify patterns or trends. Player Development Evaluate the individual development and performance of key players.</description>
     </item>
   </channel>
 </rss>
