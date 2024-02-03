@@ -21,8 +21,6 @@ cover:
 
 Taking inspiration from Football Management to guide reflections on my performance, potential, impact and development as an Engineering Manager.
 
-Areas to reflect on:
-
 ## Current Performance
 
 ### Team Performance
