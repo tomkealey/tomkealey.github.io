@@ -88,3 +88,5 @@ Focus Areas:
 ---
 
 _Remember to be honest and objective in your self-assessment. Identify both strengths and areas for improvement, and use this reflection to set goals for your ongoing development as a manager. This self-awareness can contribute to continuous improvement and success in your role._
+
+[Football Manager](football-manager-by-tomkealey.png)
