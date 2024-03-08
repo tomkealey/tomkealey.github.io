@@ -17,7 +17,7 @@ cover:
 
 ---
 
-I'll confess that peotry has rarely commanded a high position in my reading stack, yet somehow If by Rudyard Kipling has defied the algorithm odds to strike a chord with my inner stoic.
+I'll confess that poetry has rarely commanded a high position in my reading stack, yet somehow If by Rudyard Kipling has defied the algorithm odds and struck a chord with my inner stoic.
 
 # If
 
