@@ -71,7 +71,7 @@ Focus Areas:
 - Assess your overall impact on the club's success and achievement of long-term goals.
 - Reflect on how well you align your managerial decisions with the club's vision and objectives.
 
-### Club Values Integration
+### Club Values
 - Evaluate how well your coaching decisions align with the club's core values.
 - Reflect on instances where you foster the club's values by your actions.
 
@@ -88,5 +88,3 @@ Focus Areas:
 ---
 
 _Remember to be honest and objective in your self-assessment. Identify both strengths and areas for improvement, and use this reflection to set goals for your ongoing development as a manager. This self-awareness can contribute to continuous improvement and success in your role._
-
-[Football Manager](football-manager-by-tomkealey.png)
