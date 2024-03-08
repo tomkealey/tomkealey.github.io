@@ -14,16 +14,30 @@
     <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tomkealey.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Inspiration</title>
+      <link>https://tomkealey.github.io/tags/inspiration/</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomkealey.github.io/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poetry</title>
+      <link>https://tomkealey.github.io/tags/poetry/</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomkealey.github.io/tags/poetry/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Management</title>
       <link>https://tomkealey.github.io/tags/management/</link>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://tomkealey.github.io/tags/management/</guid>
       <description></description>
     </item>
     <item>
       <title>Player</title>
       <link>https://tomkealey.github.io/tags/player/</link>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://tomkealey.github.io/tags/player/</guid>
       <description></description>
     </item>

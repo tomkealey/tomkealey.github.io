@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Poetry on @tomkealey</title>
+    <link>https://tomkealey.github.io/tags/poetry/</link>
+    <description>Recent content in Poetry on @tomkealey</description>
+    <image>
+      <title>@tomkealey</title>
+      <url>https://tomkealey.github.io/papermod-cover.png</url>
+      <link>https://tomkealey.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tomkealey.github.io/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rudyard Kipling</title>
+      <link>https://tomkealey.github.io/posts/if/</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomkealey.github.io/posts/if/</guid>
+      <description>I&amp;rsquo;ll confess that peotry has rarely commanded a high position in my reading stack, yet somehow If by Rudyard Kipling has defied the algorithm odds to strike a chord with my inner stoic.
+If If you can keep your head when all about you
+Are losing theirs and blaming it on you,
+If you can trust yourself when all men doubt you,
+But make allowance for their doubting too; If you can wait and not be tired by waiting,</description>
+    </item>
+  </channel>
+</rss>
