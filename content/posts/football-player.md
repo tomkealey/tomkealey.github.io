@@ -1,7 +1,7 @@
 ---
 author: "Tom Kealey"
 title: "Football Player"
-date: "2024-03-08"
+date: "2024-03-07"
 draft: false
 description: ""
 tags: ["player", "management"]

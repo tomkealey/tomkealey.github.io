@@ -1,6 +1,6 @@
 baseURL: "https://tomkealey.github.io/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: "@tomkealey"
-paginate: 5
+paginate: 3
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -202,6 +202,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+      hardWraps: true
   highlight:
     noClasses: false
     # anchorLineNos: true
