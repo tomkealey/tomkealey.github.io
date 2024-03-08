@@ -11,31 +11,38 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tomkealey.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>management</title>
+      <title>Management</title>
       <link>https://tomkealey.github.io/tags/management/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://tomkealey.github.io/tags/management/</guid>
       <description></description>
     </item>
     <item>
-      <title>manager</title>
+      <title>Player</title>
+      <link>https://tomkealey.github.io/tags/player/</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomkealey.github.io/tags/player/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manager</title>
       <link>https://tomkealey.github.io/tags/manager/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://tomkealey.github.io/tags/manager/</guid>
       <description></description>
     </item>
     <item>
-      <title>play</title>
+      <title>Play</title>
       <link>https://tomkealey.github.io/tags/play/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://tomkealey.github.io/tags/play/</guid>
       <description></description>
     </item>
     <item>
-      <title>site</title>
+      <title>Site</title>
       <link>https://tomkealey.github.io/tags/site/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://tomkealey.github.io/tags/site/</guid>

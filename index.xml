@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tomkealey.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Football Player</title>
+      <link>https://tomkealey.github.io/posts/football-player/</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomkealey.github.io/posts/football-player/</guid>
+      <description>Taking inspiration from Football Management to guide reflections on player performance, potential, impact and development as an Engineering Manager.
+Focus Areas:
+1. Current Performance 2. Future Potential 3. Overall Impact 4. Personal Development Current Performance Technical Skills How proficient are you in ball control, passing, shooting, and defensive skills? What is your accuracy and consistency in executing these technical aspects in matches? Tactical Awareness How well do you understand and implement team strategies during matches?</description>
+    </item>
     <item>
       <title>Football Manager</title>
       <link>https://tomkealey.github.io/posts/football-manager/</link>
