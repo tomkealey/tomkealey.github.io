@@ -17,6 +17,8 @@ cover:
 
 ---
 
+I seem to be in quite a stoic mood at the moment. This quote has always been a go to for me and a reminder to keep my ass off the benches and remain in the arena. Rarely am I alone. Oft there are some other crazy souls aplay.
+
 # The Man in the Arena
 
 It is not the critic who counts; not the man who points out how the strong
