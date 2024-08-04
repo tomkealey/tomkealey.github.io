@@ -7,7 +7,7 @@ description: ""
 tags: ["site", "play"]
 categories: ["site", "play"]
 series: [""]
-ShowToc: true
+ShowToc: false
 TocOpen: false
 cover:
   image: ""
