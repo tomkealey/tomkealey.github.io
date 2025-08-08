@@ -26,9 +26,6 @@ languages:
       series: series
     menu:
       main:
-        - name: Experience
-          url: experience
-          weight: 5
         - name: Archive
           url: archives
           weight: 10
@@ -138,11 +135,11 @@ params:
   homeInfoParams:
     Title: "Hello | Hej!"
     Content: >
-      - **Purpose:** Space to channel my curiousity, develop my thinking and share in a little /tɒm'fu:l(ə)ri/.
+      - **Purpose:** A space to develop thoughts and share in a little /tɒm'fu:l(ə)ri/.
 
-      - **Bio:** Engineering Manager with a passion for development.
+      - **Motto:** Today I Learned #TIL
 
-      - **Interests:** Life Hacks | Design | Street Art | Photography | Cycling | Data
+      - **Interests:** Life Hacks | Design | Street Art | Cycling | Data
 
   socialIcons:
     - name: linkedin
