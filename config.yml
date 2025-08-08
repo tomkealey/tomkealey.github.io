@@ -162,9 +162,9 @@ params:
       url: "index.xml"
 
   editPost:
-    URL: "https://github.com/tomkealey/tomkealey.github.io/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  #  URL: "https://github.com/tomkealey/tomkealey.github.io/tree/main/content"
+  #  Text: "Suggest Changes" # edit text
+  #  appendFilePath: true # to append file path to Edit link
 
   # label:
   #     text: "Home"
