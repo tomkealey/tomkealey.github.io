@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tomkealey.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025-08-08 Friday</title>
+      <link>https://tomkealey.github.io/posts/2028-08.08/</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomkealey.github.io/posts/2028-08.08/</guid>
+      <description>&lt;p&gt;Bla bla bla&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello Hugo</title>
       <link>https://tomkealey.github.io/posts/hello-hugo/</link>
