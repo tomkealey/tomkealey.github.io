@@ -1,6 +1,8 @@
 baseURL: "https://tomkealey.github.io/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: "@tomkealey"
-paginate: 5
+#paginate: 5
+pagination:
+  pagerSize: 10
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -146,8 +148,8 @@ params:
       url: "https://www.linkedin.com/in/tomkealey/"
     #- name: mastodon
     #  url: "https://mastodon.social/@tomkealey"
-    #- name: twitter
-    #  url: "https://twitter.com/tomkealey"
+    - name: twitter
+      url: "https://twitter.com/tomkealey"
     - name: github
       url: "https://github.com/tomkealey"
     - name: gitlab
@@ -213,11 +215,6 @@ privacy:
     disabled: false
     simple: true
 
-  twitter:
-    disabled: false
-    enableDNT: true
-    simple: true
-
   instagram:
     disabled: false
     simple: true
@@ -228,6 +225,4 @@ privacy:
 
 services:
   instagram:
-    disableInlineCSS: true
-  twitter:
     disableInlineCSS: true
