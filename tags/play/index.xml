@@ -9,7 +9,7 @@
       <url>https://tomkealey.github.io/papermod-cover.png</url>
       <link>https://tomkealey.github.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tomkealey.github.io/tags/play/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,9 @@
       <link>https://tomkealey.github.io/posts/hello-hugo/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://tomkealey.github.io/posts/hello-hugo/</guid>
-      <description>In search of a platform for this blog, I stumbled upon Hugo and got cosy with Static Site Generators. Hugo promised a fast and modern static site generator written in Go, designed to make website creation fun again. The inner geek in me was excited by that and the secret nerdy joy of writing posts in Markdown and pushing them to Github Pages to build and deploy appealed to me.</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Hugo&#34; loading=&#34;lazy&#34; src=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In search of a platform for this blog, I stumbled upon &lt;a href=&#34;https://gohugo.io/about/what-is-hugo/&#34;&gt;Hugo&lt;/a&gt; and got cosy with &lt;a href=&#34;https://gohugo.io/about/benefits/&#34;&gt;Static Site Generators&lt;/a&gt;. Hugo promised a fast and modern static site generator written in Go, designed to make website creation fun again. The inner geek in me was excited by that and the secret nerdy joy of writing posts in &lt;a href=&#34;https://www.markdownguide.org/&#34;&gt;Markdown&lt;/a&gt; and pushing them to &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt; to build and deploy appealed to me.&lt;/p&gt;
+&lt;p&gt;I opted for a minimalist Hugo theme called &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;PaperMod&lt;/a&gt; and set to work on breathing life into my new pet project.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
